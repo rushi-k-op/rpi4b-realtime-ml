@@ -1,0 +1,1 @@
+(sh Script) Stress test ran for 60 seconds at 100% CPU on all 4 cores. Temperature rose from 57.4 Degree Celcious to 69.1 Degree Celcious, but no thermal throttling was detected (throttled=0x0). The system maintained full performance throughout the test.
